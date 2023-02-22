@@ -14,18 +14,18 @@ const option = {
     },
     indicator: [
       { name: '静态页面', max: 100},
-      { name: '编程基础', max: 100},
+      { name: 'js', max: 100},
       { name: 'Vue', max: 100},
+      { name: 'jQuery', max: 100},
       { name: 'React', max: 100},
-      { name: '项目开发', max: 100},
-      { name: '沟通能力', max: 100}
+      { name: 'ts', max: 100}
     ]
   },
   series: [{
     type: 'radar',
     data: [
       {
-        value: [100, 70, 90, 80, 85, 70],
+        value: [100, 90, 80, 85, 70, 60],
         name: '能力雷达'
       }
     ]
