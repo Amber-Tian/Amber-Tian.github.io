@@ -25,7 +25,7 @@ const option = {
     type: 'radar',
     data: [
       {
-        value: [100, 90, 80, 85, 70, 60],
+        value: [100, 93, 90, 80, 70, 60],
         name: '能力雷达'
       }
     ]
